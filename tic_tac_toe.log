@@ -1,0 +1,12 @@
+2023-08-09 15:12:05,452 - INFO - Starting a new game of Tic-Tac-Toe
+2023-08-09 15:12:17,434 - INFO - X placed a X at position 1
+2023-08-09 15:12:19,108 - INFO - O placed a O at position 2
+2023-08-09 15:12:20,445 - INFO - X placed a X at position 0
+2023-08-09 15:12:21,785 - INFO - O placed a O at position 3
+2023-08-09 15:12:22,249 - INFO - X placed a X at position 4
+2023-08-09 15:12:22,621 - INFO - O placed a O at position 5
+2023-08-09 15:12:22,972 - INFO - X placed a X at position 6
+2023-08-09 15:12:23,313 - INFO - O placed a O at position 7
+2023-08-09 15:12:23,797 - INFO - X placed a X at position 8
+2023-08-09 15:12:23,799 - INFO - X wins!
+2023-08-09 15:12:23,802 - INFO - Game over.
